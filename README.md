@@ -1,5 +1,7 @@
 # SQL_project_musicstore
-SQL project to analyze online music store data
+SQL project to analyze online music store data.
+Examined the dataset with SQL and helped the store understand its business growth by answering key questions.
+
 
 ## Database and Tools
 * Postgre SQL
